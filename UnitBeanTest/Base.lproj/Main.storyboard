@@ -52,14 +52,14 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="23" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ATG-XN-hXH">
-                                                    <rect key="frame" x="336" y="97.5" width="19" height="20"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" " lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ATG-XN-hXH">
+                                                    <rect key="frame" x="350" y="97.5" width="5" height="20"/>
                                                     <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                                     <color key="textColor" red="0.44687700991821827" green="0.45130153476889368" blue="0.45130153476889368" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="commentIcon.png" translatesAutoresizingMaskIntoConstraints="NO" id="E5o-c9-SUb">
-                                                    <rect key="frame" x="304" y="97.5" width="28" height="22"/>
+                                                    <rect key="frame" x="318" y="97.5" width="28" height="22"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="22" id="cua-ei-wvN"/>
                                                         <constraint firstAttribute="width" constant="28" id="vNC-Cm-CSS"/>
